@@ -69,9 +69,7 @@ However, if you have concerns about how your information is handled, please cont
 ## 8. Contact
 
 If you have any questions about this Privacy Policy, please contact:  
-**[Your Name or Organization]**  
-**Email:** [your-email@example.com]  
-**Repository:** [GitHub repository URL]
+**Email:** [agusmafud@gmail.com] 
 
 ---
 
